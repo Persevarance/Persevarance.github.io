@@ -244,7 +244,7 @@
 	<script>
 		var sc = prompt("Enter secret source:");
 		
-		while(sc != "s")
+		while(sc != "29web-kg || adme")
 		{
 			alert("Error");
 			sc = prompt("Enter secret source:");
