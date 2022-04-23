@@ -85,9 +85,9 @@
 <article class="entry">
 
               <div class="entry-img">
-                <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="assets/vid/lesson1.mp4?autoplay=0&mute=1" allowfullscreen=""></iframe>
-</div>
+                <video controls width="300" height="150">
+				<source src="assets/vid/lesson1.mp4">
+				</video>
               </div>
 
               <h2 class="entry-title">
